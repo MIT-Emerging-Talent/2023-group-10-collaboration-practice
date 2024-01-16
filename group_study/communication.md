@@ -10,6 +10,14 @@
 # Communication
 
 ## Group Rules
+1. People being on time and completing their respective task.
+2. Division of tasks properly so that everyone knows their task.
+3. Having Ice breaking sessions for better personal connections.
+4. Having dialogues and better communication on what the problem was and trying to find a genuine resolution to it.
+5. Debate things like tools, technologies to use and timings while having discussions on how we want to navigate through our own tasks.
+6. Being respectful.
+7. Make an announcement about the meeting 24 hours in advance.
+
 
 <!-- any general rules you'd like to set for your group? -->
 
@@ -19,17 +27,17 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|  16.01.2024   |  https://meet.google.com/wfz-xkgb-wzs   |  Norms                       |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: regularly
+- **Pull Requests**: regularly
+- **GitHub Discussions**: regularly
+- **Slack/Discord**: regularly
+- **Video Calls**: to be announced by team conclusion
 
 ---
 
@@ -37,13 +45,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  | 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Volodymyr | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+
+ALL SHOULD BE GIVEN IN EST!
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Volodymyr: 3h; could be expanded
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
