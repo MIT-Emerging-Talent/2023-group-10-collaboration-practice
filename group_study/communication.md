@@ -48,13 +48,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  | 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | Volodymyr | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Mewael | 11 - 15 |  11 - 15|  11 - 15  |  11 - 15  |  11 - 15 |  11 - 15  |  11 - 15 |
+
 
 ALL SHOULD BE GIVEN IN EST!
 
 ### How many hours everyone has per day:
 
 - Volodymyr: 3h; could be expanded
-- name: _6h_;
+- Mewael: 4h 
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
