@@ -56,7 +56,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | Volodymyr | 12 - 18 | 12 - 18 |  12 - 18  | 15 - 18  | 12 - 18 | 12 - 18  | 12 - 18 |
 | Mewael | 11 - 15 |  11 - 15|  11 - 15  |  11 - 15  |  11 - 15 |  11 - 15  |  11 - 15 |
-| Hossain| 11 - 17 | 11 - 17 | 11 - 17   | 11 - 17   | 11 - 17  | 11 - 17   | 11 - 17 |
+| Hossain | 11 - 17 | 11 - 17 | 11 - 17   | 11 - 17   | 11 - 17  | 11 - 17   | 11 - 17 |
+| Wagar | 11 - 14 | 11 - 14 | 11 - 14   | 11 - 16   | 11 - 14  | 11 - 14   | 11 - 14 |
 
 
 ALL SHOULD BE GIVEN IN EST!
@@ -66,7 +67,7 @@ ALL SHOULD BE GIVEN IN EST!
 - Volodymyr: 3h; could be expanded
 - Mewael: 4h 
 - Hossain: _4h_;
-- name: _4h_;
+- Wagar: 3h ; execept for thursday
 - name: _3h_;
 
 ## Asking for Help
