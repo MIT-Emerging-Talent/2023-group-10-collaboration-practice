@@ -36,3 +36,10 @@ This function is implemented in Python and does not require any external librari
 Limitations
 The function assumes well-formed decimal strings as input.
 It does not handle negative numbers or non-numeric characters.
+
+
+Extra Resources:-
+
+https://www.youtube.com/watch?v=xWBP4lzkoyM
+https://www.geeksforgeeks.org/selection-sort/
+https://www.simplilearn.com/tutorials/data-structure-tutorial/selection-sort-algorithm
