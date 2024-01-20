@@ -67,7 +67,7 @@ ALL SHOULD BE GIVEN IN EST!
 - Volodymyr: 3h; could be expanded
 - Mewael: 4h 
 - Hossain: _4h_;
-- Wagar: 3h ; execept for thursdays
+- Wagar: 3h ; execept for thursday
 - name: _3h_;
 
 ## Asking for Help
