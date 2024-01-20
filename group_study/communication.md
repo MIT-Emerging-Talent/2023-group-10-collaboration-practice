@@ -17,6 +17,11 @@
 5. Debate things like tools, technologies to use and timings while having discussions on how we want to navigate through our own tasks.
 6. Being respectful.
 7. Make an announcement about the meeting 24 hours in advance.
+8. Complete assigned tasks in advance to allow time for review and improvements.
+9. Promptly address and resolve any issues or challenges that arise during the task.
+10. Don't be afraid to ask any assistance when needed.
+11. Provide constructive feedback on tasks.
+12. Allocate dedicated time and effort to tasks.
 
 
 <!-- any general rules you'd like to set for your group? -->
@@ -39,6 +44,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Slack/Discord**: regularly
 - **Video Calls**: to be announced by team conclusion
 
+*10 Group Slack channel* - https://mitemergingtalent.slack.com/archives/C06CT9ZCUTC
+
 ---
 
 ## Availability
@@ -47,8 +54,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  | 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| Volodymyr | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Volodymyr | 12 - 18 | 12 - 18 |  12 - 18  | 15 - 18  | 12 - 18 | 12 - 18  | 12 - 18 |
 | Mewael | 11 - 15 |  11 - 15|  11 - 15  |  11 - 15  |  11 - 15 |  11 - 15  |  11 - 15 |
+| Hossain | 11 - 17 | 11 - 17 | 11 - 17   | 11 - 17   | 11 - 17  | 11 - 17   | 11 - 17 |
+| Wagar | 11 - 14 | 11 - 14 | 11 - 14   | 11 - 16   | 11 - 14  | 11 - 14   | 11 - 14 |
 
 
 ALL SHOULD BE GIVEN IN EST!
@@ -57,8 +66,8 @@ ALL SHOULD BE GIVEN IN EST!
 
 - Volodymyr: 3h; could be expanded
 - Mewael: 4h 
-- name: _5h_;
-- name: _4h_;
+- Hossain: _4h_;
+- Wagar: 3h ; execept for thursday
 - name: _3h_;
 
 ## Asking for Help
