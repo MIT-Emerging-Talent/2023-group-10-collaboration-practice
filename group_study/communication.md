@@ -10,6 +10,19 @@
 # Communication
 
 ## Group Rules
+1. People being on time and completing their respective task.
+2. Division of tasks properly so that everyone knows their task.
+3. Having Ice breaking sessions for better personal connections.
+4. Having dialogues and better communication on what the problem was and trying to find a genuine resolution to it.
+5. Debate things like tools, technologies to use and timings while having discussions on how we want to navigate through our own tasks.
+6. Being respectful.
+7. Make an announcement about the meeting 24 hours in advance.
+8. Complete assigned tasks in advance to allow time for review and improvements.
+9. Promptly address and resolve any issues or challenges that arise during the task.
+10. Don't be afraid to ask any assistance when needed.
+11. Provide constructive feedback on tasks.
+12. Allocate dedicated time and effort to tasks.
+
 
 <!-- any general rules you'd like to set for your group? -->
 
@@ -19,17 +32,19 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|  16.01.2024   |  https://meet.google.com/wfz-xkgb-wzs   |  Norms                       |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: regularly
+- **Pull Requests**: regularly
+- **GitHub Discussions**: regularly
+- **Slack/Discord**: regularly
+- **Video Calls**: to be announced by team conclusion
+
+*10 Group Slack channel* - https://mitemergingtalent.slack.com/archives/C06CT9ZCUTC
 
 ---
 
@@ -37,16 +52,22 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  | 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Volodymyr | 12 - 18 | 12 - 18 |  12 - 18  | 15 - 18  | 12 - 18 | 12 - 18  | 12 - 18 |
+| Mewael | 11 - 15 |  11 - 15|  11 - 15  |  11 - 15  |  11 - 15 |  11 - 15  |  11 - 15 |
+| Hossain | 11 - 17 | 11 - 17 | 11 - 17   | 11 - 17   | 11 - 17  | 11 - 17   | 11 - 17 |
+| Wagar | 11 - 14 | 11 - 14 | 11 - 14   | 11 - 16   | 11 - 14  | 11 - 14   | 11 - 14 |
+
+
+ALL SHOULD BE GIVEN IN EST!
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
+- Volodymyr: 3h; could be expanded
+- Mewael: 4h 
+- Hossain: _4h_;
+- Wagar: 3h ; execept for thursday
 - name: _3h_;
 
 ## Asking for Help
